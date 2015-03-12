@@ -1,4 +1,3 @@
-set tags=$UNICORN/../tags
 syntax on
 
 " user interface improvements
